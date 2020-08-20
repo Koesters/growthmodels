@@ -51,7 +51,7 @@ install_github('growthmodels', 'drodriguezperez')
    [Full text](http://www.ncbi.nlm.nih.gov/pubmed/10875624)
 3. A. Tsoularis and J. Wallace, "Analysis of logistic growth models.,"
    Math Biosci, vol. 179, no. 1, pp. 21–55, Jul. 2002. DOI identifier:
-   [10.1016/j.bbr.2011.03.031](http://dx.doi.org/10.1016/j.bbr.2011.03.031)
+   [10.1016/S0025-5564(02)00096-2](http://doi.org/10.1016/S0025-5564(02)00096-2)
 4. A. Khamiz, Z. Ismail, and A. T. Muhammad, "Nonlinear growth models for
    modeling oil palm yield growth," Journal of Mathematics and Statistics,
    vol. 1, no. 3, p. 225, 2005. DOI identifier:
